@@ -4,6 +4,8 @@
 
 body {
     font-family: sans-serif;
+    font-size: 125%;
+    max-width: 880px;
 }
 
 .md a {
@@ -209,6 +211,7 @@ div.credit-list ul {
     .md {
         font-size: 80%;
     }
+
 
     .md h1 {
         page-break-before: always;
